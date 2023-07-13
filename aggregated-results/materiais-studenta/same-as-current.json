@@ -1,0 +1,650 @@
+[
+  {
+    "id": "117196590",
+    "name": "pr-13062",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122816414",
+    "name": "2013_NatashaBrianezRodrigues - Abby Centeno",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "116590201",
+    "name": "GI3-Paloma-Destro",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122810898",
+    "name": "47046375011 - Abby Centeno",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122817374",
+    "name": "DISSERTACAO - Abby Centeno (3)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117186077",
+    "name": "ev-4779",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122814976",
+    "name": "ebook - Abby Centeno (3)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117185890",
+    "name": "ev-3981",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122810875",
+    "name": "ADESAO_AO_TRATAMENTO_COM_CPAPVPAP_EM_PACIENTES_POR - Abby Centeno (1)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122814986",
+    "name": "Estrutura_diametrica_de_Dipteryx_alata_V - Abby Centeno (4)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117185608",
+    "name": "ev-3205",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117185905",
+    "name": "ev-4020",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "116595984",
+    "name": "GT13-Matheus-Felizola",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117159043",
+    "name": "pr-3940",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117189731",
+    "name": "ev-10860",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117054902",
+    "name": "CINPAR-145",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117189477",
+    "name": "ev-10288",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117191125",
+    "name": "ev-13467",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "116574269",
+    "name": "est08316",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122816420",
+    "name": "2008_AdrianaLinharesDrummond_parcial - Abby Centeno",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "116544809",
+    "name": "ANEXO-2",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117196380",
+    "name": "pr-13282",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122557655",
+    "name": "20 Hidráulica (Portugués) Autor Prof Dr Sérgio António Neves Lousada e Eng Rafael Freitas Camacho - GAARA OF THE SAND (5)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117196770",
+    "name": "pr-13991",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122810900",
+    "name": "Artigo - Fernanda Garrote Marques - 2015 - Abby Centeno (1)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122557654",
+    "name": "19 Hidráulica Básica Guia de Estudo (Portugués) Autor J Rodolfo S Martins e Miguel Gukovas - GAARA OF THE SAND (5)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117129934",
+    "name": "Ponencias-EJE-3",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122816422",
+    "name": "989-Texto do artigo-14549-1-10-20160930 - Abby Centeno",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117185327",
+    "name": "ev-2523",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117189328",
+    "name": "ev-10064",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "116714439",
+    "name": "pla01414",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117189225",
+    "name": "ev-9880",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117056175",
+    "name": "Emilse-del-Socorro-Zabaleta-Direccion-academica-Profesora",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122815145",
+    "name": "19 Neuropsicologia Atuação e pesquisa no curso de Psicologia da UFSC (Portugués) autor Natália Martins Dias, Fernanda Machado Lopes y Chrissie Ferreira de Carvalho - Elena",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122817376",
+    "name": "DO5604465COR - Abby Centeno (3)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122818740",
+    "name": "WOS000343280800003 - Abby Centeno (4)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122810880",
+    "name": "admin,ART 432BJD - Abby Centeno (1)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "116863562",
+    "name": "Anais-do-IX-Encontro-sobre-Abelhas",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122816416",
+    "name": "2011_RogerioMarcosMagalhaes - Abby Centeno",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117174185",
+    "name": "bfa005189",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122818731",
+    "name": "Tese - Gabriel Marques Rosa - 2020 - Abby Centeno (4)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122810873",
+    "name": "288224967 - Abby Centeno (1)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117196792",
+    "name": "pr-14110",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122817379",
+    "name": "e-book_EcofisiologiaeNutriodeEspciesFrutferaseArbreas - Abby Centeno (3)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "116717256",
+    "name": "PROTOCOLOS-ASISTENCIALES",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "116716120",
+    "name": "pla09116",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117105057",
+    "name": "eje7-nadai-1",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117025145",
+    "name": "Actas-Jornadas-IEALC-2021-Anexo",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117101623",
+    "name": "Recetario-comunitario-2021-compressed--1-",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "116872779",
+    "name": "Di--a-2--O-segundo-grande-surto-anticomunista-1961-64",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117149177",
+    "name": "pr-407",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117189409",
+    "name": "ev-10159",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117025362",
+    "name": "a-educacao-juridica-num-mundo-globalizado",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117185894",
+    "name": "ev-3992",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117186127",
+    "name": "ev-4895",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122818729",
+    "name": "tcc_Loame Paiva - Abby Centeno (4)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117196469",
+    "name": "pr-12544",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117185348",
+    "name": "ev-2559",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122818721",
+    "name": "ruc,379-568-1-PB - Abby Centeno (4)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122816412",
+    "name": "2016_JulianaBenezFerreira - Abby Centeno",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122810886",
+    "name": "Artigo - Aline Medeiros Alves - 2010 - Abby Centeno (3)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "116606549",
+    "name": "vGT14-Paula-Renata-Camargo-de-Jesus",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117159399",
+    "name": "pr-5364",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117148513",
+    "name": "pr-41",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122816419",
+    "name": "2009_RobertMoraisThompson - Abby Centeno",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117176725",
+    "name": "Correa-Silva",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117195839",
+    "name": "pr-10113",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "116875464",
+    "name": "hys-14-04-portugal-ana---historia-e-historiografia-do-ayllu-andino",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122557652",
+    "name": "18 Hidráulica (Portugués) Autor Prof Dr Hugo Alexandre Soares Guedes - GAARA OF THE SAND (5)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117190113",
+    "name": "ev-11868",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "116606170",
+    "name": "Luiz-Claudio-Martino-",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122814982",
+    "name": "Estrategias_fenologicas_de_Byrsonima_bas - Abby Centeno (3)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117147468",
+    "name": "pm-4793",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122816413",
+    "name": "2015_NádiaAlvesViana - Abby Centeno",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117083038",
+    "name": "De-Havana-a-CoIürdoba---Duas-deIücadas-de-EducacIaIãÆo-Superior-na-AL-C",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122817370",
+    "name": "Dissertação_LCPP_ultimaversão_março_2022 - Abby Centeno (3)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117146623",
+    "name": "pm-826",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "122817368",
+    "name": "descarga (1) - Abby Centeno (3)",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117195944",
+    "name": "pr-10509",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117129945",
+    "name": "Ponencias-EJE-18-2",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "117196325",
+    "name": "pr-12077",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese"
+  }
+]

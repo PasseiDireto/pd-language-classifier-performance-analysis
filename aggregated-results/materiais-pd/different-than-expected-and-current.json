@@ -1,0 +1,130 @@
+[
+  {
+    "id": "120921839",
+    "name": "ApAndice-F",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "ca",
+    "oldDetectedLanguage": ""
+  },
+  {
+    "id": "117808803",
+    "name": "sbcars2007-proc-final",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118865315",
+    "name": "TF10-029-29",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "ro",
+    "oldDetectedLanguage": "portuguese"
+  },
+  {
+    "id": "119398268",
+    "name": "2019-ThiagoLuisdosSantosPinto",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "english"
+  },
+  {
+    "id": "117298734",
+    "name": "Bicudo04",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119496671",
+    "name": "LIVRO-TecnologiaAmbienteSustentabilidade",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117899171",
+    "name": "2018-tese-asmatos",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "122485589",
+    "name": "D-Watt",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": ""
+  },
+  {
+    "id": "117280679",
+    "name": "aula-magna3",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "english"
+  },
+  {
+    "id": "117767361",
+    "name": "mc542-A-03-2s07",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119028582",
+    "name": "2009-LiviaPennaFRodrigues",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "italian"
+  },
+  {
+    "id": "117350567",
+    "name": "Francielle-Mello-de-Carvalho",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117504308",
+    "name": "Ton-doutorado",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "nl",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117300482",
+    "name": "carbio-set2015",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118571075",
+    "name": "unesp-presentation",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117723629",
+    "name": "Prova Pref. PenedoAL - COPEVEUFAL - 2010 - para Professor de Séries Iniciais.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "italian"
+  }
+]

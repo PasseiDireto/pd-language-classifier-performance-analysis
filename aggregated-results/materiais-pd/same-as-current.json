@@ -1,0 +1,1162 @@
+[
+  {
+    "id": "120321393",
+    "name": "2019080005",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117268848",
+    "name": "aps15",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118036264",
+    "name": "Defendendo-campesinato",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117415630",
+    "name": "2004-art-pjccarrasco",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117797018",
+    "name": "Paper003",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117796340",
+    "name": "OpiniAúo-PAblica-vol--27-n--1",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117678013",
+    "name": "Prova SEDUCPE - IPAD - 2006 - para Professor de Espanhol.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118225426",
+    "name": "palestra4",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117355438",
+    "name": "Holmberg-1887-Viajes-a-Misiones",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "121744207",
+    "name": "PARADIGMA-40-anos",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119428482",
+    "name": "ARTIGO-CohorteAncianosInstitucionalizados",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117682485",
+    "name": "Prova Instituto Federal de Educação, Ciência e Tecnologia - Rio Grande do Norte - Comperve - 2010 - para Professor - Língua Espanhola.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118375492",
+    "name": "i-congresso-envelhecimento-ativo-",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117807434",
+    "name": "Revista-17---artigo-5",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118378819",
+    "name": "ler-althusser-ebook",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117152570",
+    "name": "36-Contraste-entre-los-determinantes-de-la-inversion-en-ID-y-del-registro-de-patentes-en-sectores-industriales-de-Colombia",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117886783",
+    "name": "actualidad-reforma-2018",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117895043",
+    "name": "2018-art-ncmacielbfalima",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117898545",
+    "name": "2018-tcc-lcaoliveira",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117607783",
+    "name": "Entropy-de-Pynchon",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118378803",
+    "name": "La-cultura-latinoamericana-en-los-procesos-de-integracion-continental-Luis-Ayerbe-Rafael-Molina-Ignacio-Nunez",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "120452157",
+    "name": "El-placer-por",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118379019",
+    "name": "libro-comunicacion-conflictos-y-cambio-social-2015-uji-unesp-ufro-congde",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118865507",
+    "name": "VESTUNB102-001-2-OCASO",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "120776493",
+    "name": "O-direito-a-cidade-50-anos-depois",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117352386",
+    "name": "giesteiraygodall12",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118182285",
+    "name": "Establecimiento-de-un-indicador-de-calidad-de-atencion-farmaceutica",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117894994",
+    "name": "2018-art-mmvianatanunes",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117556590",
+    "name": "06-wise",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117878099",
+    "name": "000813391",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118812655",
+    "name": "ANAIS-IER-Coloquio",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118051923",
+    "name": "espaol---cartilha",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117889772",
+    "name": "2017-artgo-lsborne",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117913554",
+    "name": "Anuario-2010-Sobre-periodo-2006-20071",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119637046",
+    "name": "2019080005",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117599990",
+    "name": "clases-sociales-y-movimientos-sociales-en-america-latina",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117808371",
+    "name": "Revista-completa--vol-23-n-3",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117723204",
+    "name": "Prova Pref. São José do CedroSC - AMEOSC - 2016 - para Professor de Espanhol - Habilitado.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "120450755",
+    "name": "Dos-matriarcas",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117751827",
+    "name": "Prova IFSC - IFSC - 2010 - para Professor de Português Espanhol.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "121743362",
+    "name": "OHabitareoInabitual-E-book",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "121743929",
+    "name": "OOlhardoResidente-Milito-Farias-MarquesJunior-2020",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118081581",
+    "name": "Geopolitca-de-la-integracion-latinoamericana-y-caribena-una-lectura-de-fin-de-milenio-Jaime-Coronado1",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117301616",
+    "name": "CI-Ano-XX-n2-ago-dez-2006",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117766932",
+    "name": "materialismo-evolucionismo-3",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117502484",
+    "name": "2013-art-alrfernandez",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117586407",
+    "name": "artigo9716monal",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117799752",
+    "name": "QPBQ",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117807401",
+    "name": "Revista-14---artigo-8",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117745137",
+    "name": "Prova Pref. São JoséSC - FEPESE - 2018 - para Professor de Espanhol.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117849439",
+    "name": "6-santoja",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "122346775",
+    "name": "1-1-Conterno-Julia",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117557813",
+    "name": "22-artigos-cordabanma",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118147241",
+    "name": "AgroecologAa-2-CTP-1",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119739386",
+    "name": "Dos-matriarcas",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117798249",
+    "name": "Politicas-publicas-e-iniciativas-de-apoio-as--PMEs-e-aos-empreendedores",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117796991",
+    "name": "Pando",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117150445",
+    "name": "3-7-SHIALCAlvarez-paper",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117368669",
+    "name": "K18-VictorAlbornoz",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118571638",
+    "name": "Org20demo20v11,n220_2010",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "121841206",
+    "name": "v02n03bagoas03",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "120919957",
+    "name": "ALVES,20I 20P ;20POZO,20J",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117490331",
+    "name": "2011-art-gglmeneses",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117494792",
+    "name": "revista-dd-v-10-n-1",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119644592",
+    "name": "boris-tejeda-su-ol---disserta--o-ufmg",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117415357",
+    "name": "2002-art-jcrcastro",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117306527",
+    "name": "Desidades292",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118545077",
+    "name": "serie-temas-em-educacao-escolar-n23",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117414544",
+    "name": "2000-art-wbandriola",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117723735",
+    "name": "Prova Pref. Rio de JaneiroRJ - Pref. Rio de JaneiroRJ - 2012 - para Professor I - Espanhol.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119018558",
+    "name": "119INPI14-CBNS02-01",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119497678",
+    "name": "ARTIGO-TrayectoriasDesafiosHistoriografia",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "120332650",
+    "name": "briolotti01",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118224467",
+    "name": "Org20demo20v11,n220_2010",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118107501",
+    "name": "2019-tcc-havrodriguez",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "120635205",
+    "name": "MarAa-de-Jorge-Isaacs",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117604693",
+    "name": "diseno-bidimensional",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117610678",
+    "name": "2014-tcc-jobrasil",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117158553",
+    "name": "135156",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117962511",
+    "name": "coeficientes-k-y-ld-para-calculo-de-tuberias",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118813197",
+    "name": "ARTIGO--InterdisciplinariedadReferenciaIndispensable",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117634954",
+    "name": "Prova Secretaria de Educação do Estado do Ceará - CEBRASPE - 2009 - para Professor - Língua Espanhola.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117632234",
+    "name": "Prova Secretaria de Estado da Educação do Distrito Federal - Instituto Quadrix de Responsabilidade Social - 2016 - para Professor - Língua Espanhola.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118051324",
+    "name": "El-Plan-Colombia-la-iniciativa-regional-andina-hacia-la-guerra-o-la-concertacion-Richard-Buono",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119647536",
+    "name": "CiAncia-Semicolonial-Tese-Marcos-Calazans",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117783134",
+    "name": "Prova TJRS - FAURGS - 2012 - para Analista Judiciário - Engenharia Civil.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117500358",
+    "name": "TDSE64esp",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "122850588",
+    "name": "artigo-Rojas2007",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117799650",
+    "name": "Quixoteguatemala2",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117893236",
+    "name": "2017-tcc-cfasouza",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118201626",
+    "name": "Metodologias-de-Projetos",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118794609",
+    "name": "2022-KathleenDamarisChamorroPablo",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117586448",
+    "name": "artigo300Artigo6",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117722690",
+    "name": "Prova Pref. MessiasAL - SELECT - 2009 - para Professor de 6 ao 9 Ano - Língua Espanhol.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118813108",
+    "name": "ARTIGO-ImportanciaArbolesPlanificaciOn",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117759505",
+    "name": "LEP-29",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118859183",
+    "name": "LIVRO-MensuraDasomA-trica",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117713678",
+    "name": "Prova Pref. São José do CedroSC - AMEOSC - 2016 - para Professor de Espanhol - Não Habilitado.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117500352",
+    "name": "TDSE18---espanhol",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117306416",
+    "name": "dd-v-9-n-1-laura-pautassi",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "121687842",
+    "name": "414",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "120829565",
+    "name": "VocabvlarioQqichuaDeHolguin1607",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117952717",
+    "name": "artigo12-v8-n2",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117798850",
+    "name": "programa",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117809876",
+    "name": "Studium-32",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117865037",
+    "name": "149-727-2-ed-corrigido",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118378797",
+    "name": "La-comunidad-andina-en-2005-al-borde-la-de-ruptura-Carlos-Vasquez",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117913555",
+    "name": "Anuario-de-la-integraciAn-2010",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117619952",
+    "name": "Prova Instituto Federal de Educação, Ciência e Tecnologia Fluminense - CEBRASPE - 2017 - para Professor - Língua Espanhola.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118379123",
+    "name": "La-comunidad-del-Caribe-en-la-encrucijada-Armando-Koll",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117155286",
+    "name": "990",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "121110488",
+    "name": "pdf-es",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119154002",
+    "name": "2016-CeliaAnaliaBorbaVargas-tcc",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118378973",
+    "name": "La-Triple-Frontera-terrorismo-o-ubicacion-geografica-estratA-gica-un-tema-para-el-debate-David-Dieppa",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117503712",
+    "name": "Tese---Maria-Jose",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118571789",
+    "name": "ValleyMag-scr",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117898727",
+    "name": "2018-tcc-mtloliveira",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119397174",
+    "name": "2019-LorenaDelPilarPeredaCArdova",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117771716",
+    "name": "modelos-deporte-esp-iglesias-tarrago",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117486164",
+    "name": "potencialidadesdelhidrogeno",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118225027",
+    "name": "pactoandino",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117171480",
+    "name": "804152",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117500206",
+    "name": "TD94",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118144914",
+    "name": "2022-tcc-vsfsilva",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117713658",
+    "name": "Prova Pref. Tibau do SulRN - CONPASS - 2015 - para Professor de Espanhol.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "121840775",
+    "name": "v03n04art04-campuzano",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119427937",
+    "name": "3010",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117772360",
+    "name": "Nicolas-Carrera",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117849347",
+    "name": "6artigodomes-2009",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117850291",
+    "name": "12artigodomes-2012",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117850520",
+    "name": "11artigodomes-2011",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117654364",
+    "name": "Prova Colégio Pedro II - Colégio Pedro II - 2019 - para Professor - Língua Espanhola.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118571995",
+    "name": "visoes-do-sul-vol-2-ebook",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "122438001",
+    "name": "REST-6",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117607341",
+    "name": "EITAM5-paper-13-LozaA-pp-179-189",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118051124",
+    "name": "eide2018",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119428409",
+    "name": "ARTIGO-AcercaMujeresllegaron",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117629833",
+    "name": "Prova Assembleia Legislativa de Roraima - CETAP - 2010 - para Médico cardiologista.pdf",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118382301",
+    "name": "Marcadores-sociais-da-diferenca-e-repressao-penal",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "122346230",
+    "name": "artigo02-2015-2",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117299419",
+    "name": "Caderno-resumos-SHIALC-versAúo-final",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118118896",
+    "name": "2021-tcc-rsjsouzajunior",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "118107536",
+    "name": "2019-tcc-iccampos",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "117895129",
+    "name": "2018-art-idsnunesmagrilo",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  },
+  {
+    "id": "119443661",
+    "name": "VESTUNB102-001-2-OCASO",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish"
+  }
+]

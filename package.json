@@ -1,0 +1,19 @@
+{
+  "name": "test-lang-detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.369.0",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.3.1",
+    "languagedetect": "^2.0.0"
+  }
+}

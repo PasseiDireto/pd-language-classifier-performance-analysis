@@ -1,0 +1,253 @@
+[
+  {
+    "id": "121743023",
+    "name": "NaturezaMulherNome-Boschemeier-2010",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "118146106",
+    "name": "2022-tese-jlcrocha",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "118701705",
+    "name": "2016-RosanaGonAalvesdaSilva",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "119153688",
+    "name": "2016-DyegoAlvesdaSilva",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "119202989",
+    "name": "2017-NelsondeAbreuJAnior",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117347031",
+    "name": "FAíbio-Hideki-Sakatsume",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "120827111",
+    "name": "tese-adriano-final-5-definitiva",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "121137569",
+    "name": "Umberto-Antonio-Sesso-Filho---Joaquim-Jose-Martins-Guilhoto---Rossana-Lott-Rodrigues",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117080153",
+    "name": "projetos-pic-2011-2012",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117498619",
+    "name": "SINTEFARMA2010-1",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "122435800",
+    "name": "221-21",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "120449101",
+    "name": "disserta--o-daniel-peifer-bezerra-2014",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "119154369",
+    "name": "2016-IoneidedeOliveiraCampos-",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "119497840",
+    "name": "bbcert10-008",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "120395455",
+    "name": "DissertaAAúo-LetAcia-Azevedo",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "119427437",
+    "name": "ARTIGO-ConvergAnciaPoliticasPublicas",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "latin",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "119395335",
+    "name": "2018-RobertaSimAÁesNascimento",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "119636813",
+    "name": "4466",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto",
+    "obs": "O arquivo possui o mesmo texto em espanhol e portugues"
+  },
+  {
+    "id": "117496527",
+    "name": "RRPO---A-110",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "latin",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "118793426",
+    "name": "2021-SaraLelisdeOliveira",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "120828116",
+    "name": "Tese-AÔÇricaSarsurCAómara",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "119495353",
+    "name": "docs-dissertacoes-Omar-de-Araujo-Esper---dissertacao",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "118631625",
+    "name": "2015-CatherineAlianaGucciardiGarcez",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117649509",
+    "name": "hh775a",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "118582347",
+    "name": "2010-MariaZildadaConceicao",
+    "currentLanguage": "es",
+    "expectedLanguage": "pt",
+    "newDetectedLanguage": "pt",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  }
+]

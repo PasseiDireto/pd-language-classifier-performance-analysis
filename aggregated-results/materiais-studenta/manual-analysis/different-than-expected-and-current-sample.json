@@ -1,0 +1,158 @@
+[
+  {
+    "id": "117082575",
+    "name": "Cuadernillo-1995",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Incorreto",
+    "oldAnalysis": "Incorreto",
+    "obs": "text preview está bem ruim"
+  },
+  {
+    "id": "117460481",
+    "name": "25-AJUTSCULTIUSHERBACIS",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "ca",
+    "oldDetectedLanguage": "",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117461793",
+    "name": "20-B3F-DEF-TARRAGONA-PUNT",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "ca",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117459273",
+    "name": "1-1-PUBL-2014-3811",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "ca",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117518688",
+    "name": "202274-publicacio-trimestral-setembre-22",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "ca",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117113047",
+    "name": "Encuentro-Miradas-Vol-2-0",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "italian",
+    "newAnalysis": "Incorreto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117461780",
+    "name": "20-B1NOF-DEF-TARRAGONA-PUNT",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "ca",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117114268",
+    "name": "experiencia-cultural",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Incorreto",
+    "oldAnalysis": "Incorreto",
+    "obs": "text preview está bem ruim"
+  },
+  {
+    "id": "117461408",
+    "name": "43-AJUTSCULTIUSHERBACIS",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "ca",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117462504",
+    "name": "17-INDEMNITZACIOCOMPENSATORIA",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "ca",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117173594",
+    "name": "bfa003027",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Incorreto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "123387604",
+    "name": "Como No Creer En Dios - Pablo Pucha",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "gl",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Incorreto",
+    "oldAnalysis": "Incorreto",
+    "obs": "text preview está bem ruim, arquivo é uma partitura"
+  },
+  {
+    "id": "117099333",
+    "name": "practico-3-respuestas",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "en",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Incorreto",
+    "oldAnalysis": "Incorreto",
+    "obs": "text preview está bem ruim"
+  },
+  {
+    "id": "117108717",
+    "name": "el-desarrollo-de-los-ninos-en-edad-escolar",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "nl",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Incorreto",
+    "oldAnalysis": "Incorreto",
+    "obs": "text preview está bem ruim"
+  },
+  {
+    "id": "116953911",
+    "name": "TTI-SepulvedaCastroMonicaXiomara-07",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "ru",
+    "oldDetectedLanguage": "bengali",
+    "newAnalysis": "Incorreto",
+    "oldAnalysis": "Incorreto",
+    "obs": "text preview está bem ruim"
+  }
+]

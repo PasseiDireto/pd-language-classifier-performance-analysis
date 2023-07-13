@@ -1,0 +1,252 @@
+[
+  {
+    "id": "117109107",
+    "name": "161106-seccion2",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117115097",
+    "name": "tesis-n0460-Brenner",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117196889",
+    "name": "pr-14813",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "117125285",
+    "name": "carreras-formacion-tecnica-2020",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117116074",
+    "name": "250707-seccion2",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117167267",
+    "name": "59e1ca702c4c19325784e0e78247dcd6",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117087483",
+    "name": "CPO85-1S-1-13",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117151864",
+    "name": "U6-CarlosSabino-ComoHacerUnaTesis",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117005295",
+    "name": "artes",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117136471",
+    "name": "Sede-SAN-ISIDRO--EnfermerAa--74--Licenciatura--75--C-C-Curricular--76-",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "117109592",
+    "name": "110314-BOcba-2s",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "cebuano",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117131432",
+    "name": "publicacionesxgrupo06-09",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "117025546",
+    "name": "artes",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "116875483",
+    "name": "IAc004",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117107413",
+    "name": "071010-seccion2",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "cebuano",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117081890",
+    "name": "Convenios-Contrapartes",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "116560912",
+    "name": "bibliomed-junio-2019",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "117077362",
+    "name": "2-Secc-050421",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117080447",
+    "name": "2-Secc-29122017",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "116964737",
+    "name": "jguarnizol",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "117087475",
+    "name": "CPO-1S-bim-20",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117107205",
+    "name": "120511-seccion2",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  },
+  {
+    "id": "117107776",
+    "name": "140606-seccion2",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "116867340",
+    "name": "CID199704--dico-a",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "spanish",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Correto"
+  },
+  {
+    "id": "117108340",
+    "name": "161110-seccion2",
+    "currentLanguage": "pt",
+    "expectedLanguage": "es",
+    "newDetectedLanguage": "es",
+    "oldDetectedLanguage": "portuguese",
+    "newAnalysis": "Correto",
+    "oldAnalysis": "Incorreto"
+  }
+]
