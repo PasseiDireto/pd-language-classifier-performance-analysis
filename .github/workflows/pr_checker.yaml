@@ -1,0 +1,46 @@
+name: PR checker
+on: pull_request
+
+jobs:
+  pre-job:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: ${{ secrets.AWS_REGION }}
+        role-to-assume: ${{ secrets.ROLE_TO_ASSUME }}
+        role-duration-seconds: 1200
+    - name: Provide a self hosted to execute this job
+      uses: PasseiDireto/gh-runner-task-action@main
+      with:
+        github_pat: ${{ secrets.PD_GITHUB2_PAT }}
+        task_definition: gh-runner
+        cluster: gh-runner
+
+  main:
+    needs: pre-job
+    runs-on: self-hosted
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 20
+    - name: Install dependencies
+      run: npm install
+    - name: No tests found in this project
+      run: echo 'No tests found in this project'
+    - name: SonarQube Scan
+      uses: sonarsource/sonarqube-scan-action@master
+      with:
+        args: >
+            -Dsonar.branch.name=${{ github.head_ref }}
+      env:
+        SONAR_TOKEN: ${{ secrets.SONARQUBE_TOKEN }}
+        SONAR_HOST_URL: ${{ secrets.SONARQUBE_INTERNAL_URL }}
+    - name: SonarQube Quality Gate check
+      uses: sonarsource/sonarqube-quality-gate-action@master
+      timeout-minutes: 5
+      env:
+        SONAR_TOKEN: ${{ secrets.SONARQUBE_TOKEN }}
